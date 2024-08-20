@@ -1,3 +1,9 @@
 ### DESAFIO POO DA DIO
 
-Objetivo, atuar com interfaces para adicionar funções de funcionamento a uma classe, imitando o funcionamento de um Iphone.
+Objetivo: criar um UML que represente as funcionalidades de aplicativos em um Iphone.
+
+Objetivo opicional: Atuar com interfaces para adicionar funções de funcionamento a uma classe, imitando o funcionamento de um Iphone.
+
+### UML
+
+[![](https://mermaid.ink/img/pako:eNp1kk1OwzAQha9ieRVEe4EskCrYdEGFKGKBspna02RUxxNN7AhaendM0z9q4ZVn_PS-N7Z32rBFXWrjoO-fCGqBtvIqrXnXsEc1nX4_qFfshG0MLM-xJwMulyxgwBosy9wHFI8hl8w6EHQNv6HDNXsyPGoO7JyxG0-Vug9sQIo7NTDZc7OD2OfdPnkbYg9Hl2IZhHyt2kN1Ld5fw_NoF7qjOnGOPj62KHwDhYDeYpaFkg-BPLIIEr_ztviXn93eBY-ftCJ5gZr8eZoo7jaCpXHsBQ8wW0GRRYzgaAsnoz9J9ESnqVogm37CgVzp0GCLlS7T1oJsKl35Xx2kB1p-eaPLIBEnWjjWjS7X4PpUxc6muzh-o3O3A__BfKr3P0PD0GM?type=png)](https://mermaid.live/edit#pako:eNp1kk1OwzAQha9ieRVEe4EskCrYdEGFKGKBspna02RUxxNN7AhaendM0z9q4ZVn_PS-N7Z32rBFXWrjoO-fCGqBtvIqrXnXsEc1nX4_qFfshG0MLM-xJwMulyxgwBosy9wHFI8hl8w6EHQNv6HDNXsyPGoO7JyxG0-Vug9sQIo7NTDZc7OD2OfdPnkbYg9Hl2IZhHyt2kN1Ld5fw_NoF7qjOnGOPj62KHwDhYDeYpaFkg-BPLIIEr_ztviXn93eBY-ftCJ5gZr8eZoo7jaCpXHsBQ8wW0GRRYzgaAsnoz9J9ESnqVogm37CgVzp0GCLlS7T1oJsKl35Xx2kB1p-eaPLIBEnWjjWjS7X4PpUxc6muzh-o3O3A__BfKr3P0PD0GM)
