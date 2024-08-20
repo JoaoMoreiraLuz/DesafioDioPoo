@@ -2,7 +2,7 @@
 
 Objetivo: criar um UML que represente as funcionalidades de aplicativos em um Iphone.
 
-Objetivo opicional: Atuar com interfaces para adicionar funções de funcionamento a uma classe, imitando o funcionamento de um Iphone.
+Objetivo opcional: Atuar com interfaces para adicionar funções de funcionamento a uma classe, imitando o funcionamento de um Iphone.
 
 ### UML
 
